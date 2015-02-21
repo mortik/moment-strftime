@@ -1,0 +1,27 @@
+{
+  "name": "moment-strftime",
+  "version": "0.0.1",
+  "homepage": "https://github.com/benjaminoakes/moment-strftime",
+  "authors": [
+    "Ben Oakes <github@benjaminoakes.com>"
+  ],
+  "main": [
+    "moment-strftime.min.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "momentjs": "~2.9.0",
+  },
+  "devDependencies": {
+  }
+}
